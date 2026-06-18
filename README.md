@@ -23,6 +23,7 @@ pytorch 1.9.0
 
 
 # Citation
+Please consider citing the paper if you consider it useful for your research:
 
 ``` bibtex
 @article{ZHANG2026104094,
