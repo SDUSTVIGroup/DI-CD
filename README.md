@@ -20,3 +20,20 @@ Figure 10: Qualitative comparison on the CDD-CD dataset
 python 3.8
 
 pytorch 1.9.0
+
+
+# Citation
+
+``` bibtex
+@article{ZHANG2026104094,
+title = {DI-CD: A dynamic interaction-based task-specific framework for industrial and remote sensing change detection},
+journal = {Ain Shams Engineering Journal},
+volume = {17},
+number = {5},
+pages = {104094},
+year = {2026},
+issn = {2090-4479},
+doi = {https://doi.org/10.1016/j.asej.2026.104094},
+author = {Luwen Zhang and Qinglu Wang and Haixia Wang and Shufeng Chen and Zhiguo Zhang}
+}
+```
